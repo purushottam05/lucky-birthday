@@ -1,5 +1,5 @@
 :root {
-  --background-dark: #7c3aed;
+  --background-dark: #edde3a;
   --black: #000;
 }
 
@@ -10,7 +10,8 @@ html {
 }
 
 * {
-  font-family: "Lato", sans-serif;
+  font-family: "Oswald";
+  font-size: 30px;
 }
 
 .header {
